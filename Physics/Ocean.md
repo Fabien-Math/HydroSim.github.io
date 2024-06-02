@@ -11,9 +11,9 @@ The free surface of the flow is an inverted cycloid or trochoid as the figure be
 
 <p align="center">
     <img align="center" src="images/sine-gerstner.png" width=800 title="Trochoidal wave" alt="Trochoidal wave">
-    <figcaption align="center">
-        Figure 1. Trochoidal waves by <a href="https://catlikecoding.com/jasper-flick/">Jasper Flick</a>
-    </figcaption>
+</p>
+<p align="center">
+    Figure 1. Trochoidal waves by <a href="https://catlikecoding.com/jasper-flick/">Jasper Flick</a>
 </p>
 
 Mathematically, this free surface can be described in the 3 dimensions as follows[1](#references) :
@@ -39,9 +39,9 @@ Q must be adjusted with caution. If Q exceeds a certain value, the waves could l
 
 <p align="center">
     <img align="center" src="images/wave-loops.jpg" width=800 title="Wave loops" alt="Wave loops">
-    <figcaption align="center">
-        Figure 2. Wave loops by <a href="https://catlikecoding.com/jasper-flick/">Jasper Flick</a>
-    </figcaption>
+</p>
+<p align="center">
+    Figure 2. Wave loops by <a href="https://catlikecoding.com/jasper-flick/">Jasper Flick</a>
 </p>
 
 ### Wave speed
