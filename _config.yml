@@ -1,4 +1,4 @@
-remote_theme: rundocs/jekyll-rtd-theme
+theme: rundocs/jekyll-rtd-theme
 
 # folders sort
 readme_index:
