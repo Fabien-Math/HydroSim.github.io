@@ -18,22 +18,22 @@ The free surface of the flow is an inverted cycloid or trochoid as the figure be
 
 Mathematically, this free surface can be described in the 3 dimensions as follows[1](#references) :
 
-$\displaystyle
+$$\displaystyle
 \vec{r}(x, y, t) = 
 \begin{pmatrix}
 \displaystyle x + \sum_i \left(Q_i A_i \times D_i \cdot x \times \cos(\omega_i D_i \cdot (x, y) + \varphi_i t) \right)\\
 \displaystyle y + \sum_i \left(Q_i A_i \times D_i \cdot y \times \cos(\omega_i D_i \cdot (x, y) + \varphi_i t) \right)\\
 \displaystyle \sum_i \left(A_i \times \sin(\omega_i D_i \cdot (x, y) + \varphi_i t) \right)
 \end{pmatrix}
-$
+$$
 
 Where
-- $Q_i$ is a parameter that control the steepness of the waves. $Q_i = 0$ means no steepness, so the result is a regular sine waves composition;
-- $A_i$ is the amplitude of the waves;
-- $D_i$ is vector that control the directionality of the waves. $D_i = 0$ means unidirectional waves;
-- $\omega_i$ is the angular frequency.
+- $$Q_i$$ is a parameter that control the steepness of the waves. $$Q_i = 0$$ means no steepness, so the result is a regular sine waves composition;
+- $$A_i$$ is the amplitude of the waves;
+- $$D_i$$ is vector that control the directionality of the waves. $$D_i = 0$$ means unidirectional waves;
+- $$\omega_i$$ is the angular frequency.
 
-In this set of equations, it's important to note that $r_x$​ is not equivalent to $x$. These equations delineate both the vertical displacement and lateral motion of a specific point within the scene as *Figure 1* describes.  
+In this set of equations, it's important to note that $$r_x$$​ is not equivalent to $$x$$. These equations delineate both the vertical displacement and lateral motion of a specific point within the scene as *Figure 1* describes.  
 
 Q must be adjusted with caution. If Q exceeds a certain value, the waves could loop back on themselves, which would break the physical sense of the waves, see *Figure 2* below.  
 
@@ -46,11 +46,11 @@ Q must be adjusted with caution. If Q exceeds a certain value, the waves could l
 
 ### Wave speed
 
-The speed of the wave is given by the dispersion relation : $\displaystyle c^2 = \dfrac{g}{k}$ where $k = \dfrac{2\pi}{\lambda}$ is the wave number and $\lambda$ wavelength. We know that $\omega = kc$, so the angular frequency can be defined as follows:  
+The speed of the wave is given by the dispersion relation : $$\displaystyle c^2 = \dfrac{g}{k}$$ where $$k = \dfrac{2\pi}{\lambda}$$ is the wave number and $$\lambda$$ wavelength. We know that $$\omega = kc$$, so the angular frequency can be defined as follows:  
 
-$\displaystyle \omega = \sqrt{\dfrac{2 \pi g}{\lambda}}$
+$$\displaystyle \omega = \sqrt{\dfrac{2 \pi g}{\lambda}}$$
 
-Where $g$ in the gravitational constant.
+Where $$g$$ in the gravitational constant.
 
 
 
