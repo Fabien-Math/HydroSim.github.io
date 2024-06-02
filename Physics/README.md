@@ -9,13 +9,11 @@ The theory behind this project as well as all the hypothesis and approximations 
 ## Contents
 
 **Weather and ocean**
-- **Ocean modelling**
-- **Current modelling**
-- **Cloud modelling**
-- **Wind modelling**
+- [**Ocean and modelling**](Ocean)
+- [**Cloud and wind modelling**](Weather)
 
 **Physics of the boat**
-- **Buoyancy**
-- **Gravity**
-- **Hydrodynamics**
-- **Aerodynamics**
+- [**Buoyancy**](Buoyancy)
+- [**Gravity**](Gravity)
+- [**Hydrodynamics**](Hydrodynamics)
+- [**Aerodynamics**](Aerodynamics)
