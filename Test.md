@@ -1,3 +1,3 @@
 layout: page
-title: "Bouyancy"
-permalink: /Physics/Bouyancy.html
+title: "Test"
+permalink: /Test.html
