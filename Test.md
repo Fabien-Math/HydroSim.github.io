@@ -1,1 +1,3 @@
-This is a test
+layout: page
+title: "Bouyancy"
+permalink: /Physics/Bouyancy.html
