@@ -10,9 +10,9 @@ The theory behind this project as well as all the hypothesis and approximations 
 
 **Weather and ocean**
 - **Ocean modelling**
+- **Current modelling**
 - **Cloud modelling**
 - **Wind modelling**
-- **Current modelling**
 
 **Physics of the boat**
 - **Buoyancy**
