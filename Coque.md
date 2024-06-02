@@ -166,7 +166,8 @@ Pour monter la dérive, la solution envisagée (24/02/2024) est de lever le bate
 On peut facilite le montage en ajoutant des aimants dans le puits de dérive et dans la dérive afin de la guider.
 
 
-> [!NOTE]
-> *Les solutions écartées sont de mettre la dérive une fois le bateau dans l'eau à l'aide d'un plongeur. Cette solution est dangereuse pour le plongeur car le bateau ne pèsera pas moins de 600 kg une fois tout monté avec ses lests et nous n'en auront aucun contrôle au moment de la mettre. De plus, il faudrait, pour facilité le montage de la dérive un système de clips (déjà pensé, cf image ci-dessous ou conception 3D sur Fusion360 : Derive/Derive auto-lock) mais bien plus difficile à mettre en œuvre.*  
-> <img src="https://github.com/HydroSharks/ZephyrWiki/blob/main/PuitsDeriveAutoLock.png?raw=true" width=400 alt="Plan du puits de dérive auto-lock" title="Plan du puits de dérive auto-lock">  
-> *Les parties rouges sont des goupilles (optionnelles), la dérive tient grâce à des encoches et une barre de retenu. Pour facilité le montage, des aimants ont été incrustés dans le puits de dérive et dans la dérive.*
+```tip
+*Les solutions écartées sont de mettre la dérive une fois le bateau dans l'eau à l'aide d'un plongeur. Cette solution est dangereuse pour le plongeur car le bateau ne pèsera pas moins de 600 kg une fois tout monté avec ses lests et nous n'en auront aucun contrôle au moment de la mettre. De plus, il faudrait, pour facilité le montage de la dérive un système de clips (déjà pensé, cf image ci-dessous ou conception 3D sur Fusion360 : Derive/Derive auto-lock) mais bien plus difficile à mettre en œuvre.*  
+<img src="https://github.com/HydroSharks/ZephyrWiki/blob/main/PuitsDeriveAutoLock.png?raw=true" width=400 alt="Plan du puits de dérive auto-lock" title="Plan du puits de dérive auto-lock">  
+*Les parties rouges sont des goupilles (optionnelles), la dérive tient grâce à des encoches et une barre de retenu. Pour facilité le montage, des aimants ont été incrustés dans le puits de dérive et dans la dérive.*
+```
