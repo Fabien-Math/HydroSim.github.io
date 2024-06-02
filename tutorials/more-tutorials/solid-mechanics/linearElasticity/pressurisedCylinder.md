@@ -1,1 +1,0 @@
-../../../../imported/solids4foam/tutorials/solids/linearElasticity/pressurisedCylinder/README.md

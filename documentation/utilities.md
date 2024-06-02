@@ -1,1 +1,0 @@
-../imported/solids4foam/applications/utilities/README.md

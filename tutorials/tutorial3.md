@@ -1,1 +1,0 @@
-../imported/solids4foam/tutorials/fluidSolidInteraction/beamInCrossFlow/README.md
