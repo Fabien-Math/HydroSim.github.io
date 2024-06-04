@@ -10,3 +10,6 @@ To define these function, I could have use the Hermite interpolation which inter
 To simplify the problem, I choose the Gompertz distribution [Link](https://en.wikipedia.org/wiki/Gompertz_distribution).  
 
 This distribution is defined by two parameters $$\eta$$ and $$\beta$$, we will choose them to fit the correct distribution of pressure in the area considered.
+
+
+I need a value to add or substract from the current pressure, this value must be determined by how far we are from the mean pressure associated with it standard deviation.
