@@ -19,6 +19,10 @@ Use of unity to implement the simulator
 - **Wind modelling**
 - **Current modelling**
 
+**Physics**
+- **Buoyancy and gravity**
+- **Hydrodynamics**
+
 **Boat parts**
 - **Hull**
 - **Floats**
