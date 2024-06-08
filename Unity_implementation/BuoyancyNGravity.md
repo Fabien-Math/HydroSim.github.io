@@ -1,5 +1,5 @@
 ---
-sort: 5
+sort: 3
 ---
 
 # Buoyancy and gravity
@@ -55,7 +55,7 @@ The corrected heights are named $$Y_min$$ for the bottom ones and $$Y_max$$ for 
 
 ## Ray-casting method
 
-As written in the precedent part, I created $$n \times m$$ boxes of $$0.6 m$ in height, here $$n = 47$$ and $$m = 7$$. The dimensions of the boat being $$4.7 x 0.69 x 0.58$$, $$329$$ $$10$$ by $$10 cm$$ have been created. After subdividing each box with a resolution of $1 cm$, creating $$6,000$$ other points per box, we compute for each point of the subdivision if a collision occurs between the shot ray and the all the point of the hull contained in the zone where the box is, see visualization below.
+As written in the precedent part, I created $$n \times m$$ boxes of $$0.6 m$$ in height, here $$n = 47$$ and $$m = 7$$. The dimensions of the boat being $$4.7 x 0.69 x 0.58$$, $$329$$ $$10$$ by $$10 cm$$ have been created. After subdividing each box with a resolution of $$1 cm$$, creating $$6,000$$ other points per box, we compute for each point of the subdivision if a collision occurs between the shot ray and the all the point of the hull contained in the zone where the box is, see visualization below.
 
 <p align="center">
     <img align="center" src="images/FindHeightHull.png" width=800 title="Visualization of a point shooting ray to determine if it is inside the hull or outside" alt="Visualization of a point shooting ray to determine if it is inside the hull or outside">

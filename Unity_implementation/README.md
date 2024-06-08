@@ -14,18 +14,17 @@ Use of unity to implement the simulator
 ## Contents
 
 **Weather and ocean**
-- **Ocean modelling**
-- **Cloud modelling**
-- **Wind modelling**
-- **Current modelling**
+- [**Ocean modelling**](Ocean)
+- [**Weather system**](Weather)
 
 **Physics**
-- **Buoyancy and gravity**
-- **Hydrodynamics**
+- [**Buoyancy and gravity**](BuoyancyNGravity)
+- [**Hydrodynamics**](Hydrodynamics)
+- [**Aerodynamics**](Aerodynamics)
 
 **Boat parts**
-- **Hull**
-- **Floats**
-- **Sails**
-- **Center board**
-- **Rudder**
+- [**Hull**](Hull)
+- [**Floats**](Float)
+- [**Sails**](Sails)
+- [**Centreboard**](Centreboard)
+- [**Rudder**](Rudder)
