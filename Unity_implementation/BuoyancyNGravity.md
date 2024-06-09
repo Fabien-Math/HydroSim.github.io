@@ -77,7 +77,7 @@ Axis in Unity are $$x$$ for the surge direction, $$y$$ for the heave direction a
 
 The file must have this format to be correctly interpreted by the reading function in *C#* :
 
-***File.txt***
+***File_format.txt***
 ```
 # NB_LINE_PER_DATA
 386
