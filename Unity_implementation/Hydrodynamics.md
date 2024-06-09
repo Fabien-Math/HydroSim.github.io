@@ -20,10 +20,10 @@ File for hydrodynamics coefficients must have the following format.
 7
 
 # STARTING_ANGLE
--90
+0
 
 # INCREMENT
-2
+1
 
 # SERIE_0,speed_0
 cd_0,cl_0
@@ -31,10 +31,10 @@ cd_0,cl_0
 cd_180,cl_180
 
 ...
-SERIE_i,speed_i
+# SERIE_i,speed_i
 ...
 
-SERIE_7,speed_7
+# SERIE_7,speed_7
 cd_0,cl_0
 ...,...
 cd_180,cl_180
