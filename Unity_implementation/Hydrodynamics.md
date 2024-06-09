@@ -87,4 +87,5 @@ def write_file(datas, speeds, parameters, out_name, out_path = './'):
             f.write(f"\n# SERIE_{i},{speeds[i]}\n")
             for j in range(parameters[0]):
                 f.write(f"{datas[i]['cd'][j]},{datas[i]['cl'][j]}\n")
+    print("File written with success")
 ```
