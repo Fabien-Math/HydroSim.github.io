@@ -4,7 +4,18 @@ sort: 4
 
 # Hydrodynamics
 
-## Drag and lift
+## Drag and lift coefficients
+
+### Hull
+
+
+### Float
+
+
+### Centreboard
+
+
+### Rudder
 
 
 ### File format
@@ -44,12 +55,29 @@ cd_180,cl_180
 Make sure to respect the spacing betwen lines! Else, the file will be read incorrectly!
 ```
 
+```note
+Spaces between parameters are tabulation character : '\t'
+```
 This file can be generated using the [python script 1](#python-script-1)
 
-## Centreboard
+## Rotation coefficients
+
+These coefficients are resulting from the forces created on the boat part when the boat rotates along it vertical axis. See [theory section](../Physics/Hydrodynamics.md/#rotation-coefficients)
+
+### Hull
 
 
-## Rudder
+### Float
+
+
+### Centreboard
+
+
+### Rudder
+
+
+### File format
+
 
 
 ## Appendices
