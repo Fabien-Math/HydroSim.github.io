@@ -11,20 +11,23 @@ sort: 5
 
 ***file_format.txt***
 ```
-# NUMBER_OF_COEFFICIENTS_PER_SERIES
+# NUMBER_OF_WIND_ANGLE
 181
+
+# WIND_ANGLES
+-90    -88    -86    ...    -2    0    2    ...    86    88    90
 
 # NUMBER_OF_SPEEDS_SERIES
 5
 
-# NUMBER_OF_FLAP_ANGLES
+# WIND_SPEEDS
+speed_0    speed_1    speed_2    speed_3    speed_4
+
+# NUMBER_OF_FLAP_ANGLE
 7
 
-# STARTING_ANGLE
-0
-
-# INCREMENT
-2
+# FLAP_ANGLES
+flap_angle_0    flap_angle_1    flap_angle_2    flap_angle_3    flap_angle_4    flap_angle_5    flap_angle_6
 
 # SERIE_0,speed_0
 # flap_angle_0    flap_angle_1  flap_angle_2  flap_angle_3  flap_angle_4  flap_angle_5  flap_angle_6
