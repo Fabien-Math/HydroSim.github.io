@@ -71,7 +71,7 @@ where $$\displaystyle \rho$$ and $$\displaystyle V$$ are respectively the densit
 
 The centre of gravity is calculated by the formula below:  
 
-$\displaystyle \vec{OG} = \dfrac{1}{\vec{P}} \sum \vec{P_{box}} \cdot \vec{OM}$
+$$\displaystyle \vec{OG} = \dfrac{1}{\vec{P}} \sum \vec{P_{box}} \cdot \vec{OM}$$
 
 Where $$\displaystyle \vec{OG}$$ is the gravity centre coordinates, $$\displaystyle \vec{P}$$ the total gravity force vector, $$\displaystyle \vec{P_{box}}$$ the boxes' gravity force vector and $$\displaystyle \vec{OM}$$ the gravity centre coordinates of boxes.
 
