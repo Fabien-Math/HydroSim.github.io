@@ -6,7 +6,7 @@ sort: 3
 
 ## Buoyancy
 
-To implement the buoyancy using the method developed in the [theory section](../Physics/Buoyancy.md). I created a python script that read a stereolithography file *.stl*. In such a file, the information stored are oriented faces composed of 3 vertices.
+To implement the buoyancy using the method developed in the [theory section](../Physics/BuoyancyNGravity.md). I created a python script that read a stereolithography file *.stl*. In such a file, the information stored are oriented faces composed of 3 vertices.
 
 ```
 facet normal -0.295816 -0.927877 0.227017
