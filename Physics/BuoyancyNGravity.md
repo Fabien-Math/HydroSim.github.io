@@ -11,7 +11,7 @@ To compute buoyancy and gravity for the Zephyr, I tried several methods with one
 
 ### First approach, considering the boat as a box
 
-In this first approach, I consider each part of the boat as boxes, $$4.7x0.7x0.6$$ m for the hull and $$2.3x0.3x0.3$$ for a float. This approach was the most rapid but the less precise. The hull convex volume being $$1.287~m^3$$ and a float volume being $$0.127~m^3$$, there is $$35\%$$ error in the volume of the hull and $$39\%$$ for a float.
+In this first approach, I consider each part of the boat as boxes, $$4.7\times0.7\times0.6$$ m for the hull and $$2.3\times0.3\times0.3$$ for a float. This approach was the most rapid but the less precise. The hull convex volume being $$1.287~m^3$$ and a float volume being $$0.127~m^3$$, there is $$35\%$$ error in the volume of the hull and $$39\%$$ for a float.
 
 This approach clearly not the solution to balance between precision and time efficiency.
 
@@ -52,7 +52,7 @@ The centre of buoyancy is calculated by the formula below:
 
 $\displaystyle \vec{OB} = \dfrac{1}{\vec{F_A}} \sum \vec{F_{A_{box}}} \cdot \vec{OM}$
 
-Where $$\displaystyle \vec{OB}$$ is the buoyancy centre coordinates, $$\displaystyle \vec{F_A}$$ the total buoyancy force vector, $$\displaystyle \vec{F_A_{box}}$$ the boxes' buoyancy force vector and $$\displaystyle \vec{OM}$$ the gravity centre coordinates of the immersed volume of boxes.
+Where $$\displaystyle \vec{OB}$$ is the buoyancy centre coordinates, $$\displaystyle \vec{F_A}$$ the total buoyancy force vector, $$\displaystyle \vec{F_{A_{box}}}$$ the boxes' buoyancy force vector and $$\displaystyle \vec{OM}$$ the gravity centre coordinates of the immersed volume of boxes.
 
 Moment due to Archimedes forces is defined as follows:
 
