@@ -50,7 +50,7 @@ On average, it runs in $$\displaystyle 0.159~ms$$, which allows running the simu
 
 The centre of buoyancy is calculated by the formula below:  
 
-$\displaystyle \vec{OB} = \dfrac{1}{\vec{F_A}} \sum \vec{F_{A_{box}}} \cdot \vec{OM}$
+$$\displaystyle \vec{OB} = \dfrac{1}{\vec{F_A}} \sum \vec{F_{A_{box}}} \cdot \vec{OM}$$
 
 Where $$\displaystyle \vec{OB}$$ is the buoyancy centre coordinates, $$\displaystyle \vec{F_A}$$ the total buoyancy force vector, $$\displaystyle \vec{F_{A_{box}}}$$ the boxes' buoyancy force vector and $$\displaystyle \vec{OM}$$ the gravity centre coordinates of the immersed volume of boxes.
 
