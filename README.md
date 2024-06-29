@@ -16,3 +16,11 @@ The Zéphyr project involves the design and construction of an autonomous resear
 
 <img src="ZephyrMontain3.png" width=1080 title="Zéphyr project logo" alt="Zéphyr project logo">
 
+Want to comment?
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
