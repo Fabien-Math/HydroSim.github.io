@@ -15,12 +15,3 @@ The Zéphyr project involves designing and constructing an autonomous research t
 </p>
 
 <img src="ZephyrMontain3.png" width=1080 title="Zéphyr project logo" alt="Zéphyr project logo">
-
-Want to comment?
-<script src="https://utteranc.es/client.js"
-        repo="Fabien-Math/HydroSim.github.io"
-        issue-term="url"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>

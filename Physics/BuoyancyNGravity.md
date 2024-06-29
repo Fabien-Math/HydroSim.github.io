@@ -81,3 +81,13 @@ There isn't moment due to gravity because moments are defined in the gravity cen
 
 To enhance this third method, I have defined sub-boxes that improve the distribution of mass within the boat. For example, boxes overlapping compartments in the boat have been divided into two separate groups to assign densities to hull-boxes and compartment-boxes individually.
 
+## Comment
+
+Any remarks or improvements, leave a comment!
+<script src="https://utteranc.es/client.js"
+        repo="Fabien-Math/HydroSim.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
