@@ -18,8 +18,8 @@ The Zéphyr project involves designing and constructing an autonomous research t
 
 Want to comment?
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
-        issue-term="pathname"
+        repo="Fabien-Math/HydroSim.github.io"
+        issue-term="url"
         theme="github-light"
         crossorigin="anonymous"
         async>
