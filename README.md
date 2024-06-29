@@ -2,7 +2,7 @@
 
 This is the goal of Hydro'Sim
 
-This work was conducted as part of the Zéphyr project, which HydroSharks, the student ship-building association at the SeaTech engineering school, lead.
+This work was conducted as part of the Zéphyr project, which HydroSharks, the student ship-building association at the SeaTech engineering school, led.
 <p align="center">
     <img src="LogoHD_HS_2023_Black.png" width=200 title="HydroSharks logo" alt="HydroSharks logo">
 </p>
