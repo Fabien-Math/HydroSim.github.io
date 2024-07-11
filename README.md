@@ -1,4 +1,4 @@
-# Simulation of a boat in real-time
+# Simulation of a sailboat in real-time
 
 This is the goal of Hydro'Sim
 
